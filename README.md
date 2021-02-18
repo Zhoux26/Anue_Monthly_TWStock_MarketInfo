@@ -4,7 +4,7 @@ Web_crawler
 website: https://www.cnyes.com/
 
 Target:
-for the monthly revenue of TaiWan Companies
+for the monthly revenue of Taiwan Companies
 
 Result:
 Automaticly update the information of taget company into SQL
