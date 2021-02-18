@@ -1,0 +1,2 @@
+# Anue_Monthly_TWStock_MarketInfo
+Web_crawler: cnYes_dot_com
