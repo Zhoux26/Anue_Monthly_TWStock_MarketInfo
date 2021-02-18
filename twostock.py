@@ -8,7 +8,7 @@ import calendar
 
 # setting target companies
 
-# could find the number of Companies
+# could find the number of Companies in Anue
 
 
 configData = [
