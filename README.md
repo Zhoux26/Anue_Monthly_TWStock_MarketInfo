@@ -1,4 +1,4 @@
-# Anue_Monthly_TWStock_MarketInfo
+# Exploring Monthly Revenue or other Information of Company with Anue
 Web_crawler
 
 website: https://www.cnyes.com/
