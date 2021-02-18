@@ -124,7 +124,6 @@ def updated_Sql(code,emp):
         
     else:
         pass
-
 # -------------------------------------------------------------------------------------
 if __name__ == '__main__':
     for i in configData:  
