@@ -14,11 +14,11 @@ import calendar
 configData = [
     {
         "Stock_No": "2355", # 敬鵬 # CHIN POON IND 
-        "H_Code": "C0000001" # Code in Sql 
+        "Code": "C0000001" # Code in Sql 
     },
     {
         "Stock_No": "2383", # 台光電 # ELITE MATL
-        "H_Code": "C0000002" 
+        "Code": "C0000002" 
     }
     ]
 
@@ -127,7 +127,7 @@ def updated_Sql(code,emp):
 if __name__ == '__main__':
     for i in configData:  
         try:
-           updated_Sql(i["H_Code"],i["Stock_No"])
+           updated_Sql(i["Code"],i["Stock_No"])
 
         except:
            print( i["Code"] + " failed!")
