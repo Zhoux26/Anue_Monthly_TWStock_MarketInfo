@@ -25,7 +25,9 @@ configData = [
 
 
 def take_existed_value(config_code_no): 
-    url = "http://dataservice/api/CodeEdit/CodeValue"
+    # get data from my own api
+    # or write your own way to get the lattest value for the data in Sql 
+    url = "http://..."
     params = {
   "code": config_code_no,
   "dataList": [
