@@ -1,4 +1,4 @@
-# Exploring Monthly Revenue or other Information of The Listed Company in Anue
+# Exploring Monthly Revenue or Other Information of The Listed Company in Anue
 Web_crawler
 
 website: https://www.cnyes.com/
