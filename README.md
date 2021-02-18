@@ -10,6 +10,5 @@ Result:
 Automaticly update the information of taget company into SQL
 
 If you wanna write the data into csv you could do it by rewritting #updated_Sql function yourself.
-
 I do it through api, also, you could use pymssql to write Sql to insert the lattest value too.
 
