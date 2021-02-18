@@ -109,7 +109,7 @@ def updated_Sql(code,emp):
         try:
             
             r_json = requests.post(url, data_json,headers={'Content-Type':'application/json'},auth=HttpNegotiateAuth())
-            print(Hcode)
+            print(code)
             print(f_Date[-1])
             print(r_json)
             print(r_json.text)
